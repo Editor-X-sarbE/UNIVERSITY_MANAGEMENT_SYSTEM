@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "lib"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar",
+        "d:\\jcalendar-1.4\\lib\\jcalendar-1.4.jar",
+        "d:\\jcalendar-1.4\\lib\\jgoodies-looks-2.4.1.jar",
+        "d:\\jcalendar-1.4\\lib\\jgoodies-common-1.2.0.jar",
+        "d:\\jcalendar-1.4\\lib\\junit-4.6.jar",
+        "d:\\jcalendar-1.4\\rs2xml.jar",
+        "c:\\Users\\routs\\OneDrive\\Desktop\\pdfbox-app-3.0.2.jar",
+        "c:\\Users\\routs\\OneDrive\\Desktop\\fontbox-2.0.2-javadoc.jar",
+        "c:\\Users\\routs\\OneDrive\\Desktop\\commons-logging-1.2.1.1.jar"
+    ]
+}
